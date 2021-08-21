@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/GunThatIsMyName/coinnomad/static/js/main.a1284b1c.chunk.js",
+    "main.js.map": "/GunThatIsMyName/coinnomad/static/js/main.a1284b1c.chunk.js.map",
+    "runtime-main.js": "/GunThatIsMyName/coinnomad/static/js/runtime-main.17e8b28b.js",
+    "runtime-main.js.map": "/GunThatIsMyName/coinnomad/static/js/runtime-main.17e8b28b.js.map",
+    "static/js/2.853cf54d.chunk.js": "/GunThatIsMyName/coinnomad/static/js/2.853cf54d.chunk.js",
+    "static/js/2.853cf54d.chunk.js.map": "/GunThatIsMyName/coinnomad/static/js/2.853cf54d.chunk.js.map",
+    "index.html": "/GunThatIsMyName/coinnomad/index.html",
+    "static/js/2.853cf54d.chunk.js.LICENSE.txt": "/GunThatIsMyName/coinnomad/static/js/2.853cf54d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17e8b28b.js",
+    "static/js/2.853cf54d.chunk.js",
+    "static/js/main.a1284b1c.chunk.js"
+  ]
+}
